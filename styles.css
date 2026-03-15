@@ -77,15 +77,18 @@ ul#info{
     columns: 2;
     text-align: left;
 }
+li{
+    margin: 0px 0px 0px -5px;
+}
 li.menu{
     padding: 5px;
 }
 li.menu:hover{
-    padding: 5px;
     background-color: white;
     color: black;
     cursor: pointer;
     transition: 0.5s;
+    border-radius: 10px;
 }
 main{
     background-color: white;
