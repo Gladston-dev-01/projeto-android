@@ -15,7 +15,7 @@ Esta é uma Landing Page responsiva e moderna desenvolvida para explorar as melh
 
 ## 🔗 Link para visualização
 Você pode ver o projeto online clicando aqui: 
-👉 [Ver Landing Page Online](https://gladston-dev-01.github.io/projeto-android/)
+👉 [Ver Landing Page Online](https://gladston-dev-01.github.io/android-landing-page/)
 
 ---
 *Este projeto faz parte do meu portfólio de desenvolvedor Front-end. Sinta-se à vontade para explorar o código!*
